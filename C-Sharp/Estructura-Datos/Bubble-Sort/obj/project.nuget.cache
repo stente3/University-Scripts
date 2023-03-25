@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1eG85ffmIUksdT/Bp6DxYBUPKY9MX47O/tH3tLYnXCvuC6pDM9k5+XA9ARoqGqdntAskAdgbgrsnTkNYDX5F8g==",
+  "success": true,
+  "projectFilePath": "/home/stenty/All-programming/University-Scripts/C-Sharp/Estructura-Datos/Bubble-Sort/Bubble-Sort.csproj",
+  "expectedPackageFiles": [
+    "/home/stenty/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
